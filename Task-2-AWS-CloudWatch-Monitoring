@@ -1,0 +1,60 @@
+# 🚀 Task 1: AWS S3 Cloud Storage Setup (Codtech Internship)
+
+## ✅ Task Objective:
+Create and configure cloud storage on **AWS S3** as part of the internship at **Codtech**.
+
+---
+
+## 📦 Task Summary
+
+- **S3 Bucket Name**: `codtech-task-1`
+- **Service Used**: Amazon S3 (Simple Storage Service)
+- **Cloud Platform**: AWS
+
+---
+
+## 🔧 Steps Performed
+
+### 1. ✅ Created an S3 Bucket
+- Logged into AWS Console.
+- Navigated to **Amazon S3** service.
+- Clicked on **Create bucket**.
+- Named the bucket: `codtech-task-1`.
+- Chose **default AWS Region** (e.g., `us-east-1`).
+- Left other settings as default.
+- Created the bucket.
+
+### 2. 📁 Uploaded a File
+- Opened the bucket: `codtech-task-1`.
+- Clicked **Upload** → Added a test file (e.g., `sample.txt`).
+- Successfully uploaded the file.
+
+### 3. 🌐 Enabled Public Access using ACL
+- Selected the uploaded file.
+- Went to **Permissions** tab.
+- Under **Access Control List (ACL)**:
+  - Enabled **public read access** for "Everyone".
+  - Confirmed the warning and saved settings.
+
+---
+
+## 📸 Screenshots 
+
+
+
+---
+
+## 📚 What I Learned
+- How to create and manage an S3 bucket in AWS.
+- How to upload files to AWS S3.
+- How to manage access permissions using ACLs.
+- The importance of access control and secure file hosting.
+
+---
+
+## 🏁 Status
+✅ **Task Completed**  
+📅 Date: *[Insert date]*
+
+---
+
