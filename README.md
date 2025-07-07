@@ -8,7 +8,7 @@ Welcome to my cloud internship project submissions for **Codtech**. This reposit
 
 | Task | Description | Link |
 |------|-------------|------|
-| 1️⃣  | Create and configure AWS S3 bucket with public access | [Task 1](./Task-1-AWS-S3-Storage/README.md) |
+| 1️⃣  | Create and configure AWS S3 bucket with public access | [Task 1](Task_1_AWS_S3_Cloud_Storage_Setup.pdf) |
 | 2️⃣  | Set up monitoring and alerts with AWS CloudWatch | [Task 2](./Task-2-AWS-CloudWatch-Monitoring/README.md) |
 | 3️⃣  | [Your Task Title Here] | [Task 3](./Task-4-Cloud-Backup-or-Deployment/README.md) |
 | 4️⃣  | [Your Task Title Here] | [Task 4](./Task-4-Cloud-Backup-or-Deployment/README.md) |
